@@ -1,1 +1,1 @@
-Open source resources
+Backup for secondhand repo
